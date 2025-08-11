@@ -42,7 +42,7 @@ rtos_baremetal/
 │  ├─ tasks.c                 # tasks, shell, UART helpers
 │  └─ main.c                  # main()
 ├─ startup/
-│  └─ 01_tm4c123gh6pm_startup_ccs.c  # startup / vector table (unchanged)
+│  └─ 01_tm4c123gh6pm_startup_ccs.c  # startup / vector table
 └─ README.md
 ```
 
