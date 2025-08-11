@@ -155,9 +155,8 @@ Special thanks to Professor **Jason Losh** for creating the basic framework used
 
 ## License
 
-This project is released under the MIT License.
-
-© 2025 Murtaza Baj. Portions of the framework © Jason Losh. Both authors have chosen the MIT License for their contributions.
+This project is licensed under the MIT License.  
+© 2025 Murtaza Baj. Portions of the framework © Jason Losh, used under the MIT License.
 
 ---
 
