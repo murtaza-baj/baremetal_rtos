@@ -12,7 +12,7 @@ The codebase is organized and modularized for clarity so it can be used for lear
 
 ---
 
-## Quick GitHub description
+## Quick description
 
 > Cooperative and preemptive RTOS framework in C implementing essential real-time concepts — task scheduling, context switching, semaphore synchronization, IPC primitives, and timing — targeted at TM4C-based embedded systems.
 
